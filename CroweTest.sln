@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweTest", "CroweTest\CroweTest.csproj", "{D1BFEEDD-2DF8-4CBD-88AE-2CEA0FC6E691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweTest.Tests", "CroweTest.Tests\CroweTest.Tests.csproj", "{097869C6-B704-4DBA-AF3E-C7027658A68B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BFEEDD-2DF8-4CBD-88AE-2CEA0FC6E691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BFEEDD-2DF8-4CBD-88AE-2CEA0FC6E691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BFEEDD-2DF8-4CBD-88AE-2CEA0FC6E691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BFEEDD-2DF8-4CBD-88AE-2CEA0FC6E691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097869C6-B704-4DBA-AF3E-C7027658A68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097869C6-B704-4DBA-AF3E-C7027658A68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097869C6-B704-4DBA-AF3E-C7027658A68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097869C6-B704-4DBA-AF3E-C7027658A68B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA89E97D-18AB-42FD-8F9B-2C5CD81DFBB7}
+	EndGlobalSection
+EndGlobal
